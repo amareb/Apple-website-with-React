@@ -24,4 +24,4 @@ Amare Biyabeyin
 
 ## Acknowledgments
 
-Thanks to EvangadiTech and Adugna Bekele.
+Thank you to EvangadiTech and Adugna Bekele.
